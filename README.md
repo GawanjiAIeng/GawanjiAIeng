@@ -61,7 +61,7 @@
 ## 🧠 **Mathematics & AI Focus**
 > *"Mathematics is the language of the universe, and AI is its translator."*
 
-- Linear Algebra & Calculus
+- Linear Algebra 
 - Probability & Statistics
 - Optimization Algorithms
 - Neural Networks & Deep Learning
