@@ -11,7 +11,7 @@
 - 🔭 I'm a **Full Stack AI Engineer** passionate about building intelligent systems
 - 🌱 Currently exploring **Advanced Machine Learning & Deep Learning**
 - 👯 Looking to collaborate on **AI/ML Projects**
-- 💬 Ask me about **Python, Java, C++, ML, Django, JavaScript**
+- 💬 Ask me about **Python, Java, C++, ML, Django, MySQL, JavaScript**
 - 📫 Reach me at **gulkhangawanji@gmail.com**
 
 ---
