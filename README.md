@@ -1,5 +1,5 @@
 <h1 align="center" style="color: #4CC9F0;">👋 Hi, I'm Gulkhan Gawanji</h1>
-<h3 align="center" style="color: #8D99AE;">Full Stack AI Engineer from India</h3>
+<h3 align="center" style="color: #8D99AE;">Full Stack AI Engineer from Afghanistan</h3>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=4CC9F0&center=true&vCenter=true&width=435&lines=AI+Engineer;Full+Stack+Developer;Math+Enthusiast;Python+%7C+Java+%7C+C%2B%2B" alt="Typing SVG" />
