@@ -12,7 +12,7 @@
 - 🌱 Currently exploring **Advanced Machine Learning & Deep Learning**
 - 👯 Looking to collaborate on **AI/ML Projects**
 - 💬 Ask me about **Python, Java, C++, ML, Django, JavaScript**
-- 📫 Reach me at **[your-email@example.com]**
+- 📫 Reach me at **gulkhangawanji@gmail.com**
 
 ---
 
